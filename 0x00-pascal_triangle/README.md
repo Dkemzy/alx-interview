@@ -1,1 +1,1 @@
-# Technical interview \n ## 0x00. Pascals Trianglen
+# Technical interview\n ## 0x00. Pascals Trianglen
